@@ -24,6 +24,15 @@ let result = () => {
 
 [Sabzlearn Git course](https://github.com/)
 
+```diff
+
+-  False 
++  True
+
+
+```
+
+
 ```
 - 👋 Hi, I’m @I-Am-Poorya
 - 👀 I’m interested in ...
@@ -33,3 +42,4 @@ let result = () => {
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ```
+
